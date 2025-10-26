@@ -1,7 +1,7 @@
 <h1 align="center">I'm Luciano</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **info.luciano.design@gmail.com**
 
